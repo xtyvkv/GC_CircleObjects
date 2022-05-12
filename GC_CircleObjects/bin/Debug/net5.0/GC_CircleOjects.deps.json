@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GC_CircleOjects/1.0.0": {
+        "runtime": {
+          "GC_CircleOjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GC_CircleOjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

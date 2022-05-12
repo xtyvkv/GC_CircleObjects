@@ -1,0 +1,16 @@
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\bin\Debug\net5.0\GC_CircleObjects.exe
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\bin\Debug\net5.0\GC_CircleObjects.deps.json
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\bin\Debug\net5.0\GC_CircleObjects.runtimeconfig.json
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\bin\Debug\net5.0\GC_CircleObjects.runtimeconfig.dev.json
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\bin\Debug\net5.0\GC_CircleObjects.dll
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\bin\Debug\net5.0\GC_CircleObjects.pdb
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\obj\Debug\net5.0\GC_CircleObjects.csproj.AssemblyReference.cache
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\obj\Debug\net5.0\GC_CircleObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\obj\Debug\net5.0\GC_CircleObjects.AssemblyInfoInputs.cache
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\obj\Debug\net5.0\GC_CircleObjects.AssemblyInfo.cs
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\obj\Debug\net5.0\GC_CircleObjects.csproj.CoreCompileInputs.cache
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\obj\Debug\net5.0\GC_CircleObjects.dll
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\obj\Debug\net5.0\refint\GC_CircleObjects.dll
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\obj\Debug\net5.0\GC_CircleObjects.pdb
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\obj\Debug\net5.0\GC_CircleObjects.genruntimeconfig.cache
+C:\Users\Christ\Documents\GC\repos\GC_CircleObjects\GC_CircleObjects\obj\Debug\net5.0\ref\GC_CircleObjects.dll
