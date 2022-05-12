@@ -7,16 +7,12 @@ namespace GC_CircleObjects
         public class Circle
         {
             // trying to figure out build specs 1g & 1h
-            /*
-            private double r;
-            public double R
+            private double R;
+            public double r
             {
-                get => r;
-                set => r = value;
+                get => R;
+                set => R = value;
             }
-            */
-
-            public double r;
 
             // I have consolidated the formatting methods with their matching calculation methods
             // Using "Math.Round" made more sense to me, rather than adding extra steps for formatting
