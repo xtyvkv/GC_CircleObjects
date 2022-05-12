@@ -6,24 +6,27 @@ namespace GC_CircleObjects
     {
         public class Circle
         {
+            // trying to figure out build specs 1g & 1h
             /*
-            private static double Radius;
-            public static double r
+            private double r;
+            public double R
             {
-                get { return Radius; }
-                set { Radius = r; }
+                get => r;
+                set => r = value;
             }
             */
 
             public double r;
 
+            // I have consolidated the formatting methods with their matching calculation methods
+            // Using "Math.Round" made more sense to me, rather than adding extra steps for formatting
             public static double CalculateCircumference(double r)
             {
-                return 2 * Math.PI * r;
+                return Math.Round(2 * Math.PI * r, 2);
             }
             public static double CalculateArea( double a )
             {
-                return Math.PI * Math.Pow(a, 2);
+                return Math.Round(Math.PI * Math.Pow(a, 2), 2);
             }
         }
         static void Main( string[] args )
@@ -41,8 +44,8 @@ namespace GC_CircleObjects
                     string radiusInput = Console.ReadLine();
                     Circle circle = new Circle();
                     circle.r = Double.Parse(radiusInput);
-                    Console.WriteLine("Circumference: " + Math.Round(Circle.CalculateCircumference(circle.r), 2));
-                    Console.WriteLine("Area: " + Math.Round(Circle.CalculateArea(circle.r), 2));
+                    Console.WriteLine("Circumference: " + Circle.CalculateCircumference(circle.r));
+                    Console.WriteLine("Area: " + Circle.CalculateArea(circle.r));
                     circlesCreated++;
                     Console.WriteLine("Continue (y/n?)");
                     string response = Console.ReadLine().ToLower();
@@ -60,6 +63,7 @@ namespace GC_CircleObjects
                     {
                         Console.WriteLine($"Invalid response.");
                         tryAgain = false;
+                        // if extra time, make this ask again
                     }
                     
                 }
